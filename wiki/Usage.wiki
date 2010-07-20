@@ -1,4 +1,4 @@
-#Summary of compiler usage.
+Summary of compiler usage.
 
 = Introduction =
 
